@@ -8,7 +8,7 @@ function Pricing() {
             <p className='text-[#627382] pt-3 text-[16px]'>Choose the plan that fits your needs. Upgrade or downgrade anytime.</p>
         </div>
 
-    <div className='grid md:grid-cols-3 grid-cols-1 gap-3 place-items-center pt-4'>
+    <div className='mt-8 grid md:grid-cols-3 grid-cols-1 gap-3 place-items-center pt-4'>
    <div className="card w-11/12 md:w-96 bg-base-100 shadow-xl">
   <div className="card-body">
     

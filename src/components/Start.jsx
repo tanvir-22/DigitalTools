@@ -3,13 +3,13 @@ import React from 'react'
 
 function Start() {
   return (
-    <div className='mt-10  w-11/12 mx-auto'>
+    <div className='my-20  w-11/12 mx-auto'>
         <div className='text-center'>
             <h1 className='text-5xl font-extrabold'>Get Started in 3 Steps</h1>
             <p className='text-[#627382] pt-3 text-[16px]'>Start using premium digital tools in minutes, not hours.</p>
         </div>
 
-    <div className='grid md:grid-cols-3 grid-cols-1 gap-3 place-items-center'>
+    <div className='mt-8 grid md:grid-cols-3 grid-cols-1 gap-3 place-items-center'>
    <div className='w-90 px-10 py-15 shadow-2xl flex flex-col space-y-2 justify-center items-center'>
          
              <img className=' bg-[#f4e8ff] rounded-md flex items-center justify-center p-4' src="/src/assets/user.png" alt="" />

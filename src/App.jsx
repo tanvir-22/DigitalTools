@@ -14,7 +14,7 @@ const App = ()=>{
      <Navbar/>
      <Banner/>
      <Stat/>
-     <Suspense fallback={<span className="loading loading-dots loading-xl"></span>}>
+     <Suspense fallback={<div className="flex justify-center items-center"><span className=" loading loading-dots loading-xl"></span></div>}>
       <Products product = {product}/>
      </Suspense>
      <Start/>
