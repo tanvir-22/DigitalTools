@@ -28,7 +28,7 @@ A modern, responsive digital product marketplace built with React and Tailwind C
 ## 📸 Preview
 
 
-![App Preview](./src/assets/homeDigital.png)
+![App Preview](/public/homeDigital.png)
 
 
 ---
