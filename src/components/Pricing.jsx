@@ -9,7 +9,7 @@ function Pricing() {
         </div>
 
     <div className='grid md:grid-cols-3 grid-cols-1 gap-3 place-items-center pt-4'>
-   <div className="card w-96 bg-base-100 shadow-xl">
+   <div className="card w-11/12 md:w-96 bg-base-100 shadow-xl">
   <div className="card-body">
     
     <div className="flex flex-col justify-between">
@@ -44,7 +44,7 @@ function Pricing() {
 
 
 
-  <div className="card w-96 bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-white shadow-xl">
+  <div className="card w-11/12 md:w-96 bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-white shadow-xl">
   <div className="card-body relative">
         <span className="badge badge-md badge-warning absolute -top-3 left-[35%]">Most Popular</span>
     <div className="flex flex-col justify-between">
@@ -91,7 +91,7 @@ function Pricing() {
 
 
 
-  <div className="card w-96 bg-base-100 shadow-xl">
+  <div className="card w-11/12 md:w-96 bg-base-100 shadow-xl">
   <div className="card-body">
     
     <div className="flex flex-col justify-between">
