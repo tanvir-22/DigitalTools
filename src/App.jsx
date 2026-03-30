@@ -4,7 +4,7 @@ import Banner from "./components/Banner";
 import Stat from "./components/Stat";
 import Start from "./components/Start";
 import Pricing from "./components/Pricing";
-
+import Transform from "./components/Transform";
 const App = ()=>{
 
   return(
@@ -14,6 +14,7 @@ const App = ()=>{
      <Stat/>
      <Start/>
      <Pricing/>
+     <Transform/>
     </>
   )
 }
