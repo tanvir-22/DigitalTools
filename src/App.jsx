@@ -5,6 +5,7 @@ import Stat from "./components/Stat";
 import Start from "./components/Start";
 import Pricing from "./components/Pricing";
 import Transform from "./components/Transform";
+import Footer from "./components/Footer";
 const App = ()=>{
 
   return(
@@ -15,6 +16,7 @@ const App = ()=>{
      <Start/>
      <Pricing/>
      <Transform/>
+     <Footer/>
     </>
   )
 }
